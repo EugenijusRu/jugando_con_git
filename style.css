@@ -1,8 +1,14 @@
 h1 {
     color: blue;
     margin: 0;
+    margin-bottom: 10px;
 }
 h2 {
     color: pink;
     margin: 0;
+}
+
+header {
+    background-color: aqua;
+    padding: 20px;
 }
